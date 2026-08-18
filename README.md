@@ -12,7 +12,7 @@ paint2K is a drawing app that looks like it got burned onto a CD-R in 1999 and f
 
 **confused?** [q&a](../../discussions/new?category=q-a). the ui is from 2001 and nothing is labeled.
 
-**no github account?** email me at [echoooh.support@gmail.com](mailto:echoooh.support@gmail.com), or find me on xhs (小红书) — @venusfly9696.
+**no github account?** email me at [echoooh.support@gmail.com](mailto:echoooh.support@gmail.com), or find me on xhs (小红书) — @venusfly96.
 
 **like the app?** [ko-fi](https://ko-fi.com/venusfly96). no pressure at all, but it does make my whole week.
 
